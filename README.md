@@ -428,7 +428,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build A Simple Web App With Flask](https://pythonspot.com/flask-web-app-with-python/)
 - [Build a Secure Task Management App with React and Appwrite](https://theankurtyagi.com/appwrite/)
 - [Create A Django API in under 20 minutes](https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3)
-- [Building a Simple CRUD API with Django](https://medium.com/@techtinkerbell/building-a-simple-crud-api-with-django-a-step-by-step-guide-2672fc769fee)
+- [Building an Interactive Question Answering App with Streamlit, Transformers, and Langchain WikipediaAPIWrapper](https://medium.com/@anoopjohny2000/building-an-interactive-question-answering-app-with-streamlit-transformers-and-langchain-13b338cfe534)
 - Build a Community-driven delivery application with Django, Postgres and JavaScript
   - [Part 1](https://www.ashwinhariharan.com/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead/)
   - [Part 2](https://www.ashwinhariharan.com/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead-part-2/)
