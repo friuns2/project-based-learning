@@ -656,4 +656,4 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Hack Club Workshops](https://workshops.hackclub.com/)
 - [CodeCrafters](https://codecrafters.io/)
 
-- Add helpful article link for beginners (curated by @ex1234)
+- Extra project idea (by @ex1234)
