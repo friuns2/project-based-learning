@@ -375,6 +375,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/)
 - [Build A Simple Web App With Flask](https://pythonspot.com/flask-web-app-with-python/)
 - [Create A Django API in under 20 minutes](https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3)
+  
 - Realtime Chat application with Vue, django-notifs, RabbitMQ and uWSGI
   - [Part 1](https://danidee10.github.io/2018/01/01/realtime-django-1.html)
   - [Part 2](https://danidee10.github.io/2018/01/03/realtime-django-2.html)
