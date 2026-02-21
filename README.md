@@ -1,7 +1,7 @@
 # Project Based Learning :
 
 [![Gitter](https://badges.gitter.im/practical-tutorials/community.svg)](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![中文文档](https://img.shields.io/badge/文档-中文版-white.svg)](README.zh.md)
+[![GitHub stars](https://img.shields.io/github/stars/practical-tutorials/project-based-learning.svg?style=flat-square)](https://github.com/practical-tutorials/project-based-learning) 
 
 A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
 (This is a new currently supported fork of the PRoject based learning reposetory as it is not longer supported. I decided to support it currently so this is a fork of that repo that has more projects and else )
@@ -831,4 +831,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Enlight](https://enlight.nyc/)
 - [Hack Club Workshops](https://hackclub.com/workshops/)
 - [CodeCrafters](https://codecrafters.io/)
-- [Coding Challanges Newsletter](https://codingchallenges.substack.com/)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=practical-tutorials/project-based-learning&type=Timeline)](https://star-history.com/#practical-tutorials/project-based-learning&Timeline)
