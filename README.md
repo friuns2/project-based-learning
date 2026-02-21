@@ -422,6 +422,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 4](https://danidee10.github.io/2018/01/10/realtime-django-4.html)
   - [Part 5](https://danidee10.github.io/2018/01/13/realtime-django-5.html)
   - [Part 6](https://danidee10.github.io/2018/03/12/realtime-django-6.html)
+- [Introduction to web programming with Python](https://www.youtube.com/watch?v=vzGllw18DkA&t=65s)
 
 ### Bots:
 
