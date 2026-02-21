@@ -28,4 +28,4 @@ Please keep pull requests focused and limited to a single change where possible.
 If you have suggestions to improve this document or the contribution process, feel free to open an issue or submit a pull request explaining your proposal. For small improvements such as wording or clarity fixes, a direct pull request is welcome.
 
 
-Thank you for your suggestions! If you think there is anything to improve with the guidelines, please contact me at <tuvtran97@gmail.com>
+Thank you for your suggestions! If you think there is anything to improve with the guidelines, please contact me at <anurajvemkatpurwar@gmail.com>
