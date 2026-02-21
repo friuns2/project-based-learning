@@ -296,6 +296,7 @@ search:
 - [Build an Appointment Scheduler](https://hackernoon.com/build-an-appointment-scheduler-using-react-twilio-and-cosmic-js-95377f6d1040)
 - [Build A Chat App with Sentiment Analysis](https://codeburst.io/build-a-chat-app-with-sentiment-analysis-using-next-js-c43ebf3ea643)
 - [Build A Full Stack Web Application Setup](https://hackernoon.com/full-stack-web-application-using-react-node-js-express-and-webpack-97dbd5b9d708)
+- [Build a Secure E-Commerce App with SuperTokens and Hasura GraphQL](https://theankurtyagi.com/build-a-secure-e-commerce-app-with-supertokens-and-hasura-graphql/)
 - [Create Todoist clone with React and Firebase](https://www.youtube.com/watch?v=hT3j87FMR6M)
 - Build A Random Quote Machine
   - [Part 1](https://www.youtube.com/watch?v=3QngsWA9IEE)
@@ -434,6 +435,7 @@ search:
 - [Build a Todo List with Django and Test-Driven Development](http://www.obeythetestinggoat.com/)
 - [Build a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/)
 - [Build A Simple Web App With Flask](https://pythonspot.com/flask-web-app-with-python/)
+- [Build a Secure Task Management App with React and Appwrite](https://theankurtyagi.com/appwrite/)
 - [Create A Django API in under 20 minutes](https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3)
 - [Building a Simple CRUD API with Django](https://medium.com/@techtinkerbell/building-a-simple-crud-api-with-django-a-step-by-step-guide-2672fc769fee)
 - Build a Community-driven delivery application with Django, Postgres and JavaScript
@@ -576,6 +578,7 @@ search:
 - [Create photomosaic art](https://robertheaton.com/2018/11/03/programming-project-4-photomosaics/)
 - [Build the game "Snake" in the terminal](https://robertheaton.com/2018/12/02/programming-project-5-snake/)
 - [Write yourself a Git](https://wyag.thb.lt/)
+- [How to Build a Full Stack Notes App Using React and Supabase – The Complete Guide](https://theankurtyagi.com/notes-app-react-supabase/)
 - [A Python implementation of a Python bytecode runner](https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 - [Create a Voice assistant using Python](https://www.geeksforgeeks.org/voice-assistant-using-python/)
 - [Create a Matrix Screensaver in Python](https://medium.com/@ericvanrees/create-a-matrix-digital-rain-screensaver-with-python-pt-1-ae11e661edef)
@@ -726,6 +729,8 @@ search:
 - [Exercism](http://www.exercism.org/)
 - [Egghead.io](http://www.egghead.io/)
 - [Michael Herman's Blog](http://mherman.org/)
+- [Thinkster.io](http://thinkster.io)
+- [Ankur Tyagi's Blog](https://theankurtyagi.com/)
 - [Enlight](https://enlight.nyc/)
 - [Hack Club Workshops](https://workshops.hackclub.com/)
 - [CodeCrafters](https://codecrafters.io/)
