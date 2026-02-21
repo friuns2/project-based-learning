@@ -594,13 +594,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - Build a Community-driven delivery application with Django, Postgres and JavaScript
   - [Part 1](https://www.ashwinhariharan.tech/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead/)
   - [Part 2](https://www.ashwinhariharan.tech/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead-part-2/)
-- Realtime Chat application with Vue, django-notifs, RabbitMQ and uWSGI
-  - [Part 1](https://danidee10.github.io/2018/01/01/realtime-django-1.html)
-  - [Part 2](https://danidee10.github.io/2018/01/03/realtime-django-2.html)
-  - [Part 3](https://danidee10.github.io/2018/01/07/realtime-django-3.html)
-  - [Part 4](https://danidee10.github.io/2018/01/10/realtime-django-4.html)
-  - [Part 5](https://danidee10.github.io/2018/01/13/realtime-django-5.html)
-  - [Part 6](https://danidee10.github.io/2018/03/12/realtime-django-6.html)
+- [Python API development and CI/CD pipelines with FastAPI, Docker and More](https://www.youtube.com/watch?v=0sOvCWFmrtA) (video)
+- [Full Stack Web App (Spotify Music Controller App) with Django and React](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j) (Video Playlist)
 
 ### Bots:
 
@@ -612,6 +607,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 1](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
   - [Part 2](https://khashtamov.com/en/how-to-deploy-telegram-bot-django/)
 - [Create a Twitter Bot In Python](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
+- [Build a Twitter bot for likes and Retweets](https://www.youtube.com/watch?v=ppPKeIDjcCs) (video)
 
 ### Data Science:
 
