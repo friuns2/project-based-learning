@@ -383,17 +383,16 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ### Web Applications:
 
-- [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) [Blog Post]
-- [Create a Blog Web App In Django](https://tutorial.djangogirls.org/en/) [Web Page]
-- Choose Your Own Adventure Presentations
-  - [Part 1 & 2](https://www.twilio.com/blog/choose-your-own-adventure-presentations-with-reveal-js-python-and-websockets.html) [Blog Post]
-  - [Part 3](https://www.twilio.com/blog/choose-your-own-adventure-presentations-flask-reveal-js-websockets-html) [Blog Post]
-- [Build a Todo List with Flask and RethinkDB](https://realpython.com/blog/python/rethink-flask-a-simple-todo-list-powered-by-flask-and-rethinkdb/) [Blog Post]
-- [Build a Todo List with Django and Test-Driven Development](http://www.obeythetestinggoat.com/) [Book - available in many formats]
-- [Build a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/) [Blog Post]
-- [Microservices with Docker, Flask, and React](https://testdriven.io/) [Paid Courses]
-- [Build A Simple Web App With Flask](https://pythonspot.com/flask-web-app-with-python/) [Web Page]
-- [Create A Django API in under 20 minutes](https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3) [Blog Post]
+- [Turning a Website into an API with BeautifulSoup and FastAPI](https://dev.to/niklastiede/building-an-api-with-fastapi-1iji)
+- [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- [Create a Blog Web App In Django](https://tutorial.djangogirls.org/en/)
+- [Choose Your Own Adventure Presentations](https://www.twilio.com/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html)
+- [Build a Todo List with Flask and RethinkDB](https://realpython.com/blog/python/rethink-flask-a-simple-todo-list-powered-by-flask-and-rethinkdb/)
+- [Build a Todo List with Django and Test-Driven Development](http://www.obeythetestinggoat.com/)
+- [Build a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/)
+- [Microservices with Docker, Flask, and React](https://testdriven.io/)
+- [Build A Simple Web App With Flask](https://pythonspot.com/flask-web-app-with-python/)
+- [Create A Django API in under 20 minutes](https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3)
 - Build a Community-driven delivery application with Django, Postgres and JavaScript
   - [Part 1](https://www.ashwinhariharan.tech/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead/) [Blog Post]
   - [Part 2](https://www.ashwinhariharan.tech/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead-part-2/) [Blog Post]
