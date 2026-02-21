@@ -441,6 +441,8 @@ search:
   - [Part 6](https://danidee10.github.io/2018/03/12/realtime-django-6.html)
 - [Introduction to web programming with Python](https://www.youtube.com/watch?v=vzGllw18DkA&t=65s)
 
+- [Python API Development - Comprehensive FastAPI Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA)
+
 ### Bots:
 
 - [Build a Reddit Bot](https://www.youtube.com/watch?v=krTUf7BpTc0)
