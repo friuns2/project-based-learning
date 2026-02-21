@@ -48,7 +48,8 @@ search:
 
 ## C/C++:
 
-- [Build an Interpreter](https://t.me/ukwhoimbot?start=BQADAQADfgUAAuCKkETzVwzEjAfMvxYE) (Chapter 14 on is written in C)
+- [Build an Interpreter](http://www.craftinginterpreters.com/) (Chapter 14 on is written in C)
+- [Knowing C++ STL](https://www.youtube.com/watch?v=RRVYpIET_RU&t=2458s) (This might be essentiial and helps in reducing Time Complexity)
 - [Memory Allocators 101 - Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
 - [Malloc is not magic -- Implementing a safe, space optimized memory allocator](https://medium.com/p/e0354e914402)
 - [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
