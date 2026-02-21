@@ -739,4 +739,5 @@ search:
 - [Enlight](https://enlight.nyc/)
 - [Hack Club Workshops](https://workshops.hackclub.com/)
 - [CodeCrafters](https://codecrafters.io/)
-- [LabEx](https://labex.io)
+- [Documentation](https://devdocs.io/)
+- [Cyberclopaedia](https://cr0mll.github.io/cyberclopaedia/Cyberclopaedia/index.html)
