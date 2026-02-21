@@ -268,6 +268,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 #### React:
 
 - [Create Serverless React.js Apps](http://serverless-stack.com/)
+- [Create a Spotify clone](https://github.com/kashan16/Musique)
 - [Create a Trello Clone](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/)
 - [Build a Full Stack Movie Voting App with Test-First Development using Mocha, React, Redux and Immutable](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 - [Build a Twitter Stream with React and Node](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
