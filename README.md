@@ -688,8 +688,7 @@ search:
   - [Part 2](https://pwy.io/en/posts/learning-to-fly-pt2/)
   - [Part 3](https://pwy.io/en/posts/learning-to-fly-pt3/)
   - [Part 4](https://pwy.io/en/posts/learning-to-fly-pt4/)
- 
-- [Build a DNS server in rust](https://github.com/EmilHernvall/dnsguide/tree/master)
+- [A tutorial of building an LSM-Tree storage engine in a week!](https://github.com/skyzh/mini-lsm)
 
 ## Scala:
 
