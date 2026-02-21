@@ -468,6 +468,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [End To End Data Science Projects 2023](https://www.youtube.com/playlist?list=PLZoTAELRMXVOjQdyqlCmOtq1nZnSsWvag)
   - [Data Science Projects](https://www.youtube.com/playlist?list=PLZoTAELRMXVNUcr7osiU7CCm8hcaqSzGw) 
 
+### Generative AI:
+
+- [Safety Guardrails for LLMs: LLaMA Guard Tutorial](https://colab.research.google.com/drive/1CfF0Bzzkd5VETmhsniksSpekpS-LKYtX)
+
 ### Machine Learning:
 -[Build an ML Inference API with FastAPI and ONNX](https://www.youtube.com/watch?v=5PgqzVG9SCk)
 - [Write Linear Regression From Scratch in Python](https://www.youtube.com/watch?v=uwwWVAgJBcM) (video)
