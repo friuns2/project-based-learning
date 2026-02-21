@@ -201,6 +201,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Dart:
 
+- [Official Documentation](https://dart.dev/)
+
 ### Flutter:
 
 - [Amazon Clone with Admin Panel](https://youtu.be/O3nmP-lZAdg)
