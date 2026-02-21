@@ -44,7 +44,7 @@ search:
 - [Rust](#rust)
 - [Scala](#scala)
 - [Swift](#swift)
-- [Zig](#zig)
+- [AWS](#aws)
 - [Additional resources](#additional-resources)
 
 ## C/C++:
@@ -711,9 +711,9 @@ search:
 - [Hacking with Swift - Learn Swift by doing 39 projects](https://www.hackingwithswift.com/read)
 - [Retro first-person shooter from scratch](https://github.com/nicklockwood/RetroRampage)
 
-## Zig:
+## AWS
 
-- [Ziglings - Solve tiny bugs in software to practice Zig](https://codeberg.org/ziglings/exercises/#ziglings)
+- [Zero to Hero Playlist](https://youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&si=vgdbbf84dAXg33GE)
 
 ## Additional Resources
 
