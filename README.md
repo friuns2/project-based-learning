@@ -743,4 +743,4 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Enlight](https://enlight.nyc/)
 - [Hack Club Workshops](https://workshops.hackclub.com/)
 - [CodeCrafters](https://codecrafters.io/)
-- [Full Stack Open](https://fullstackopen.com/en/)
+- [Full Stack Open](https://fullstackopen.com/en)
