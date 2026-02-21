@@ -214,11 +214,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build a Jupyter Notebook Extension](https://link.medium.com/wWUO7TN8SS)
 - [Build a Simple Weather App With Vanilla JavaScript](https://webdesign.tutsplus.com/tutorials/build-a-simple-weather-app-with-vanilla-javascript--cms-33893)
 - [Build a Todo List App in JavaScript](https://github.com/dwyl/javascript-todo-list-tutorial)
-- [Top 95+ Javascript Projects for 2025](https://www.geeksforgeeks.org/javascript/top-javascript-projects/)
-- [40 JavaScript Projects for Beginners](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)
-- [200 Inspiring JavaScript Projects Ideas](https://dev.to/code_2/200-inspiring-javascript-project-ideas-with-source-code-ebook-included-3gnf)
-- [Build a Speech Detection Project](https://github.com/wesbos/JavaScript30/tree/master/20%20-%20Speech%20Detection)
-- [Build a Music Player using JavaScript](https://www.geeksforgeeks.org/javascript/create-a-music-player-using-javascript/)
+- [Build a Simple Weather App with JS](https://www.youtube.com/watch?v=psZ1g9fMIDA)
 
 ## HTML and CSS:
 
