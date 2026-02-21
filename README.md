@@ -808,16 +808,16 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Additional Resources
 
-- [React Redux Links](https://github.com/markerikson/react-redux-links) [GitHub Repo]
-- [Udemy.com](https://www.udemy.com/) [Paid Courses]
-- [Full Stack Python](https://www.fullstackpython.com/) [Web Page]
-- [Node School](https://nodeschool.io/) [Web Page]
-- [Digital Ocean](https://www.digitalocean.com/community) [Web Page]
-- [Exercism](http://www.exercism.io/) [Web Page]
-- [Egghead.io](http://www.egghead.io/) [Web Page]
-- [Michael Herman's Blog](http://mherman.org/) [Blog]
-- [Thinkster.io](http://thinkster.io) [Web Page]
-- [Enlight](https://enlight.nyc/) [Web Page]
-- [Hack Club Workshops](https://hackclub.com/workshops/) [Web Page]
-- [CodeCrafters](https://codecrafters.io/) [Web Page]
-- [Zero To Mastery](https://zerotomastery.io/) [Paid Courses]
+- [React Redux Links](https://github.com/markerikson/react-redux-links)
+- [Udemy.com](https://www.udemy.com/)
+- [Full Stack Python](https://www.fullstackpython.com/)
+- [Node School](https://nodeschool.io/)
+- [ScotchIO](https://scotch.io/)
+- [Exercism](http://www.exercism.io/)
+- [Egghead.io](http://www.egghead.io/)
+- [Michael Herman's Blog](http://mherman.org/)
+- [Thinkster.io](http://thinkster.io)
+- [Enlight](https://enlight.nyc/)
+- [Hack Club Workshops](https://hackclub.com/workshops/)
+- [CodeCrafters](https://codecrafters.io/)
+- [Coding Challanges Newsletter](https://codingchallenges.substack.com/)
