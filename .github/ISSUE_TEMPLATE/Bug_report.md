@@ -1,23 +1,38 @@
 ---
-name: "\U0001F41BBug report"
-about: Report an Issue
+name: "🐛 Bug report"
+about: Report an issue
+title: "[BUG] <short summary>"
+labels: ["bug"]
+assignees: []
 ---
 
-<!--- Provide a general summary of the issue in the Title above -->
+<!-- Give a clear, concise summary of the bug in 1–2 lines. -->
 
-## Expected Behavior
-<!--- If you're suggesting a change/improvement, tell us how it should work -->
+## Environment
+<!-- Helps reproduce and debug faster. -->
+- OS: 
+- Browser / Version: 
+- Device: 
+- App version / Commit hash: 
 
-## Current Behavior
-<!--- If suggesting a change/improvement, explain the difference from current behavior -->
+## Expected behavior
+<!-- Describe what you expected to happen. -->
 
-## Possible Solution
-<!--- Not obligatory, but suggest a fix/reason -->
-<!--- or ideas how to implement the addition or change -->
+## Current behavior
+<!-- Describe what actually happens, including error messages if any. -->
 
-## Steps to Reproduce
-<!--- Provide a link to a live example -->
+## Steps to reproduce
+<!-- Numbered, detailed steps make it easier to reproduce. -->
+1. Go to '...'
+2. Click on '...'
+3. Scroll to '...'
+4. See error
 
-## Context [OPTIONAL]
-<!--- How has this issue affected you? What are you trying to accomplish? -->
-<!--- Providing context helps us come up with a solution that is most useful in the real world -->
+## Screenshots / Logs
+<!-- Add screenshots or paste relevant logs (sanitized). -->
+
+## Possible solution
+<!-- Optional: ideas, suspected cause, or potential fix. -->
+
+## Additional context
+<!-- How this affects you, related issues, or any extra details. -->
