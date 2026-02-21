@@ -427,15 +427,16 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ### Machine Learning:
 
-- [Write Linear Regression From Scratch in Python](https://www.youtube.com/watch?v=uwwWVAgJBcM) [Youtube Video]
-- [Step-By-Step Machine Learning In Python](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/) [Blog Post]
-- [Predict Quality Of Wine](https://medium.freecodecamp.org/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d) [Web Page]
-- [Solving A Fruits Classification Problem](https://towardsdatascience.com/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2) [Blog Post]
-- [Learn Unsupervised Learning with Python](https://scikit-learn.org/stable/unsupervised_learning.html) [Web Page]
-- [Build Your Own Neural Net from Scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6) [Blog Post]
-- [Linear Regression in Python without sklearn](https://medium.com/we-are-orb/linear-regression-in-python-without-scikit-learn-50aef4b8d122) [Blog Post]
-- [Multivariate Linear Regression without sklearn](https://medium.com/we-are-orb/multivariate-linear-regression-in-python-without-scikit-learn-7091b1d45905) [Blog Post]
-- [Music Recommender using KNN](https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85) [Blog Post]
+- [Write Linear Regression From Scratch in Python](https://www.youtube.com/watch?v=uwwWVAgJBcM) (video)
+- [Step-By-Step Machine Learning In Python](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+- [Predict Quality Of Wine](https://medium.freecodecamp.org/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d)
+- [Solving A Fruits Classification Problem](https://towardsdatascience.com/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2)
+- [Simple Machine Learning Projects](https://github.com/MahdiMashayekhi-AI/Machine-Learning-Projects)
+- [Learn Unsupervised Learning with Python](https://scikit-learn.org/stable/unsupervised_learning.html)
+- [Build Your Own Neural Net from Scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
+- [Linear Regression in Python without sklearn](https://medium.com/we-are-orb/linear-regression-in-python-without-scikit-learn-50aef4b8d122)
+- [Multivariate Linear Regression without sklearn](https://medium.com/we-are-orb/multivariate-linear-regression-in-python-without-scikit-learn-7091b1d45905)
+- [Music Recommender using KNN](https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85)
 - Find Similar Quora Questions-
   - [Using BOW, TFIDF and Xgboost](https://towardsdatascience.com/finding-similar-quora-questions-with-bow-tfidf-and-random-forest-c54ad88d1370) [Blog Post]
   - [Using Word2Vec and Xgboost](https://towardsdatascience.com/finding-similar-quora-questions-with-word2vec-and-xgboost-1a19ad272c0d) [Blog Post]
