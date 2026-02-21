@@ -374,7 +374,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/)
 - [Build A Simple Web App With Flask](https://pythonspot.com/flask-web-app-with-python/)
 - [Create A Django API in under 20 minutes](https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3)
-  
+- [Building a Simple CRUD API with Django](https://medium.com/@techtinkerbell/building-a-simple-crud-api-with-django-a-step-by-step-guide-2672fc769fee)
+- Build a Community-driven delivery application with Django, Postgres and JavaScript
+  - [Part 1](https://www.ashwinhariharan.tech/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead/)
+  - [Part 2](https://www.ashwinhariharan.tech/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead-part-2/)
 - Realtime Chat application with Vue, django-notifs, RabbitMQ and uWSGI
   - [Part 1](https://danidee10.github.io/2018/01/01/realtime-django-1.html)
   - [Part 2](https://danidee10.github.io/2018/01/03/realtime-django-2.html)
