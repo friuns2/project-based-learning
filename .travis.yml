@@ -1,8 +1,5 @@
 language: ruby
 rvm: 2.4.1
-before_script:
-  - gem install awesome_bot
-  - gem install your_search_engine_gem
-script:
-  - awesome_bot README.md --allow-redirect
-  - your_search_engine_command --validate
+before_script: gem install awesome_bot
+script: awesome_bot README.md --allow-redirect
+script : awesome
