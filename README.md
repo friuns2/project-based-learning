@@ -6,6 +6,19 @@ A list of programming tutorials in which aspiring software developers learn how 
 
 To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
+## Search Functionality
+
+This repository now includes search functionality powered by [Your Search Engine]. To configure the search, update the `config.yml` file with your search engine API key and index name.
+
+### Configuration
+
+```yaml
+search:
+  provider: your_search_engine
+  api_key: YOUR_API_KEY
+  index_name: YOUR_INDEX_NAME
+
+
 ## Table of Contents:
 
 - [C#](#c)
