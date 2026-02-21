@@ -409,7 +409,13 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Scrape a Website with Scrapy and MongoDB](https://realpython.com/blog/python/web-scraping-with-scrapy-and-mongodb/)
 - [How To Scrape With Python and Selenium WebDriver](http://www.byperth.com/2018/04/25/guide-web-scraping-101-what-you-need-to-know-and-how-to-scrape-with-python-selenium-webdriver/)
 - [Which Movie Should I Watch using BeautifulSoup](https://medium.com/@nishantsahoo.in/which-movie-should-i-watch-5c83a3c0f5b1)
-- [Make a wikipedia article web scraper](https://medium.com/@fnachov/writing-a-wikipedia-article-web-scraper-4da1ea8daf1e)
+- [5 Web Scraping Projects with Python](https://amankharwal.medium.com/5-web-scraping-projects-with-python-4bcc25ff039)
+- [Scraping GitHub Profile using Python](https://thecleverprogrammer.com/2022/05/05/scraping-github-profile-using-python/)
+- [Scrape Table from a Website using Python](https://thecleverprogrammer.com/2022/03/10/scrape-table-from-a-website-using-python/)
+- [Web Scraping to Create a Dataset using Python](https://thecleverprogrammer.com/2021/05/14/web-scraping-to-create-a-dataset-using-python/)
+- [Scrape IMDb using Python](https://thecleverprogrammer.com/2021/06/02/scrape-imdb-using-python/)
+- [Scrape Trending News using Python](https://thecleverprogrammer.com/2021/05/10/scrape-trending-news-using-python/)
+- [Scrape Wikipedia With Python](https://thecleverprogrammer.com/2020/08/10/scrape-wikipedia-with-python/)
 
 ### Web Applications:
 
@@ -457,6 +463,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 4: Predicting Stock Prices](https://www.youtube.com/watch?v=SSu00IRRraY&index=4&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
   - [Part 5: Deep Dream in TensorFlow](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5)
   - [Part 6: Genetic Algorithms](https://www.youtube.com/watch?v=dSofAXnnFrY&index=6&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+  - [End-To-End Data Science Playlist-Get Prepared With Industry Ready Projects](https://www.youtube.com/playlist?list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG)
+  - [Data Science and Machine Learning with Python and R](https://www.youtube.com/playlist?list=PLZoTAELRMXVOnN_g96ayzXX5i7RRO0QhL)
+  - [End To End Data Science Projects 2023](https://www.youtube.com/playlist?list=PLZoTAELRMXVOjQdyqlCmOtq1nZnSsWvag)
+  - [Data Science Projects](https://www.youtube.com/playlist?list=PLZoTAELRMXVNUcr7osiU7CCm8hcaqSzGw) 
 
 ### Machine Learning:
 -[Build an ML Inference API with FastAPI and ONNX](https://www.youtube.com/watch?v=5PgqzVG9SCk)
@@ -470,7 +480,14 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Multivariate Linear Regression without sklearn](https://medium.com/we-are-orb/multivariate-linear-regression-in-python-without-scikit-learn-7091b1d45905)
 - [Music Recommender using KNN](https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85)
 - [Detecting Fake News with Python and Machine Learning](https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/)
-- [Email Spam Project End-to-End Machine Learning Using Kaggle Dataset](https://github.com/SheharyarAltaf/Email--Spam-Classifier)
+- [Machine Learning 2023](https://www.youtube.com/playlist?list=PLZoTAELRMXVPMbdMTjwolBI0cJcvASePD)
+- [Live Machine Learning](https://www.youtube.com/playlist?list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz)
+- [ML Usecases](https://www.youtube.com/playlist?list=PLZoTAELRMXVPjvhLlo7v6H-emT8tNkRaW)
+- [Machine Learning Interview questions](https://www.youtube.com/playlist?list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCpQdY)
+- [Machine Learning Pipelines](https://www.youtube.com/playlist?list=PLZoTAELRMXVMcRQwR5_J8k9S7cffVFq_U)
+- [Complete Machine Learning playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
+- [Recommendation Systems](https://www.youtube.com/playlist?list=PLZoTAELRMXVN7QGpcuN-Vg35Hgjp3htvi)
+
 ### OpenCV:
 
 - [Build A Document Scanner](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/)
